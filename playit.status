@@ -1,376 +1,832 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732545343145 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732548636695 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545346214 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548639764 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545349288 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548642832 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545352362 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548645947 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545355422 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548649009 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545358497 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548652089 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545361703 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548655181 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545364758 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548658288 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545367820 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548661355 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545370882 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548664419 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545373943 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548667505 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545377037 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548670573 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545380128 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548673638 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545383208 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548676714 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545386276 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548679796 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545389379 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548682860 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545392443 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548685924 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545395525 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548688984 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545398583 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548692049 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545401644 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548695138 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545404717 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548698221 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545407827 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548701283 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545410904 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548704348 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545413974 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548707406 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545417061 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548710485 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545420144 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548713558 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545423210 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548716676 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545426284 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548719753 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545429344 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548722828 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545432409 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548725918 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545435472 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548728981 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545438532 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548732053 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545441600 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548735114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545444683 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548738186 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545447747 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548741261 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545450805 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548744322 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545453872 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548747378 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545456935 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548750447 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545460113 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548753506 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545463170 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548756597 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545466226 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548759674 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545469283 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548762734 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545472344 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548765807 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545475398 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548768869 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545478454 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548771958 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545481513 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548775041 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545484653 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548778108 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545487720 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548781166 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545490783 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548784236 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545493841 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548787310 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545496902 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548790377 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545499959 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548793439 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545503090 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548796518 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545506159 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548799588 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545509240 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548802668 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545512300 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548805749 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545515365 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548808809 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545518452 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548811923 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545521517 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548814991 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545524585 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548818086 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545527657 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548821154 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545530723 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548824219 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
 tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
-[2J8[0mplayit (v0.15.26): 1732545533906 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732548827294 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548830505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548833566 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548836632 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548839792 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548842853 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548845920 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548848977 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548852037 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548855098 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548858182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548861254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548864358 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548867419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548870567 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548873626 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548876687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548879848 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548882906 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548885972 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548889059 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548892133 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548895228 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548898289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548901366 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548904452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548907528 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548910608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548913663 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548916725 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548919796 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548922863 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548925959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548929033 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548932095 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548935155 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548938300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548941438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548944546 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548947610 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548950687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548953761 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548956830 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548959893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548962955 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548966021 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548969094 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548972169 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548975233 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548978295 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548981358 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548984440 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548987499 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548990568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548993634 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548996693 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732548999750 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549002851 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549005918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549008985 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549012042 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549015126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549018186 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549021251 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549024326 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549027381 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549030443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549033505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549036625 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549039696 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549042816 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549045885 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549048956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549052022 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549055127 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549058184 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+nihuilserver77.playit.gg => 127.0.0.1:25565 (minecraft-java)
+tunnel pending (disabled): https://playit.gg/account/tunnels/24136400-1647-46d0-adc7-e3583bd577d6
+[2J8[0mplayit (v0.15.26): 1732549061251 tunnel running, 1 tunnels registered
 
 
 TUNNELS
