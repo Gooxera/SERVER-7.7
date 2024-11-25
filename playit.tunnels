@@ -27,7 +27,13 @@
       },
       "created_at": "2024-11-25T13:47:03.997146Z",
       "disabled_reason": null,
-      "domain": null,
+      "domain": {
+        "id": "8ab07db6-e9bd-4764-a471-18a56e463dcd",
+        "is_external": false,
+        "name": "nihuilserver77.playit.gg",
+        "parent": null,
+        "source": "from-tunnel"
+      },
       "expire_notice": null,
       "firewall_id": null,
       "id": "21388ef4-32b8-45e0-95fa-47b5188d153c",
